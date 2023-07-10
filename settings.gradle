@@ -2,4 +2,4 @@
 rootProject.name = "base_frame_mvi"
 
 include ':qbaseframe'
-include ':myapplication'
+//include ':myapplication'
